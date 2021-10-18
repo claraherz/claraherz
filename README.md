@@ -1,4 +1,9 @@
 ## Oiii eu sou a Maria Clara ou @claraherz! 🐚
+- 👩‍💻 Dev back-end em C-Sharp;
+- 🌱 Estudando C# e desejando aprender novas linguagens;
+- 💋 Pronomes: ela/dela
+- 💻 Amante da tecnologia da informação.
+
 <div align="center">
   <a href="https://github.com/claraherz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claraherz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -6,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Clara-Pic" height="150" style="border-raidus:150;" scr="https://share-cdn.picrew.me/shareImg/org/202110/338224_b861lrDl.png">
+  <img align="center" height="30" widht="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
   
   ##
