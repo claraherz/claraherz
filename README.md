@@ -1,6 +1,6 @@
 ## Oiii eu sou a Maria Clara ou @claraherz! 🐚
 - 👩‍💻 Dev back-end;
-- 🌱 Estudando C# e desejando aprender novas linguagens;
+- 🌱 Estudando C#, asp classico e javascript e desejando aprender novas linguagens;
 - 💋 Pronomes: ela/dela;
 - 💻 Amante da tecnologia da informação.
 
