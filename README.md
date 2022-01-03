@@ -1,4 +1,5 @@
-## Oiii eu sou a Maria Clara ou @claraherz! 🐚
+## Hello, Devs!!
+### Eu sou a Maria Clara ou @claraherz! 🐚
 - 👩‍💻 Dev back-end;
 - 🌱 Estudando C#, asp classico e javascript e desejando aprender novas linguagens;
 - 💋 Pronomes: ela/dela;
@@ -11,10 +12,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" widht="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Clara-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Clara-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
   
   ##
