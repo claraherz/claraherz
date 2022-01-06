@@ -1,6 +1,6 @@
 ## Hello, Devs!!
 ### Eu sou a Maria Clara ou @claraherz! 🐚
-- 👩‍💻 Dev full-stack;
+- 👩‍💻 Dev full-stack baby;
 - 🌱 Estudando C# e JavaScript e desejando aprender novas linguagens;
 - 💋 Pronomes: ela/dela;
 - 💻 Amante da tecnologia da informação.
