@@ -1,7 +1,7 @@
 ## Hello, Devs!!
 ### Eu sou a Maria Clara ou @claraherz! 🐚
 - 👩‍💻 Dev front e back-end junior;
-- 🌱 Estudando C#, ASP Classic JavaScript e desejando aprender novas linguagens;
+- 🌱 Estudando C#, ASP Classic, JavaScript e desejando aprender novas linguagens;
 - 💋 Pronomes: ela/dela;
 - 💻 Amante da tecnologia da informação.
 
